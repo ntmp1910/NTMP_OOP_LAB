@@ -14,7 +14,7 @@ public class TriangleDisplay{
             for (int j = 1; j <= n - i; j++) {
                 System.out.print(" ");
             }
-//abc
+
             // Print stars for each row
             for (int k = 1; k <= 2 * i - 1; k++) {
                 System.out.print("*");
@@ -27,3 +27,4 @@ public class TriangleDisplay{
         scanner.close();
     }
 }
+//ntmp

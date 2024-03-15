@@ -13,7 +13,6 @@ public class AddMatrix {
 
         int[][] result = addMatrices(matrix1, matrix2);
 
-        // Display result
         System.out.println("Resultant Matrix:");
         displayMatrix(result);
 
@@ -55,3 +54,4 @@ public class AddMatrix {
         }
     }
 }
+//ntmp
