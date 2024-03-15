@@ -12,7 +12,7 @@ public class CAL2263{
         double b = input.nextDouble();
         System.out.print("Enter c: ");
         double c = input.nextDouble();
-
+//abc
         double delta=b*b-(4*a*c);
         double onesol= -b/(2*a);
         double firstsol= ((-b-Math.sqrt(delta))/(2*a));

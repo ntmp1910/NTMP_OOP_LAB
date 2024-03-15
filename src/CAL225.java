@@ -6,7 +6,7 @@ public class CAL225{
 
         System.out.print("Enter the first number: ");
         double num1 = input.nextDouble();
-
+//abc
         System.out.print("Enter the second number: ");
         double num2 = input.nextDouble();
 
