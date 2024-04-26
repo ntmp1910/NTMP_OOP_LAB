@@ -3,7 +3,6 @@ import java.util.ArrayList;
 public class CompactDisc extends Disc implements Playable {
     private String artist;
     private ArrayList <Track> trackList = new ArrayList<>();
-    private int numberOfSong = 0;
     public  CompactDisc(String title, String category, String director,String artist,int length, double cost) {
         super(title,category,director,length,cost);
         this.artist = artist;
